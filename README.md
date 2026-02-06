@@ -2,6 +2,10 @@
 
 Interactive 3D mouse brain atlas for learning neuroanatomy. 
 
+![Teaching Mode — CA1 selected with region details, surgical notes, and anatomical hierarchy](docs/teaching-mode.png)
+
+![Quiz Mode — identify the highlighted region via multiple choice](docs/quiz-mode.png)
+
 ## Features
 
 - **Learning Mode** — Rotate and explore a 3D mouse brain. Click any region for details: function, stereotaxic coordinates, and connections to other areas.
