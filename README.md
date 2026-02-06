@@ -1,12 +1,11 @@
 # 3D Mouse Neuroanatomy
 
-Interactive 3D mouse brain atlas for learning neuroanatomy. Built for neuroscientists who need to identify brain regions quickly and accurately.
+Interactive 3D mouse brain atlas for learning neuroanatomy. 
 
 ## Features
 
-- **Teaching Mode** — Rotate and explore a 3D mouse brain. Click any region for details: function, surgical notes, stereotaxic coordinates, and connections to other areas.
+- **Teaching Mode** — Rotate and explore a 3D mouse brain. Click any region for details: function, stereotaxic coordinates, and connections to other areas.
 - **Quiz Mode** — A region highlights in the 3D view. Identify it via multiple choice or free text. Spaced repetition (SM-2) tracks what you know and prioritizes weak areas.
-- **30 regions** covering cortex, hippocampus, subcortical nuclei, thalamus/hypothalamus, midbrain, and hindbrain — including PPC and RSC for audiovisual integration and spatial navigation research.
 
 ## Data Sources
 
