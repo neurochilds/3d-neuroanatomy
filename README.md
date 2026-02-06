@@ -4,7 +4,7 @@ Interactive 3D mouse brain atlas for learning neuroanatomy.
 
 ## Features
 
-- **Teaching Mode** — Rotate and explore a 3D mouse brain. Click any region for details: function, stereotaxic coordinates, and connections to other areas.
+- **Learning Mode** — Rotate and explore a 3D mouse brain. Click any region for details: function, stereotaxic coordinates, and connections to other areas.
 - **Quiz Mode** — A region highlights in the 3D view. Identify it via multiple choice or free text. Spaced repetition (SM-2) tracks what you know and prioritizes weak areas.
 
 ## Data Sources
