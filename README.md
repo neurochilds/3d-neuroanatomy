@@ -1,6 +1,6 @@
 # 3D Mouse Neuroanatomy
 
-Interactive 3D mouse brain atlas for learning neuroanatomy. 
+Interactive 3D mouse brain atlas for learning neuroanatomy. Vibe coded with Claude and Codex.
 
 ![Teaching Mode — CA1 selected with region details, surgical notes, and anatomical hierarchy](docs/teaching-mode.png)
 
